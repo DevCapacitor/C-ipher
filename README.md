@@ -1,2 +1,2 @@
-# cureka
-simple cipher implementation
+C-ippher
+cipher implementation for education
