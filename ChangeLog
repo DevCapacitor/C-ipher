@@ -1,0 +1,43 @@
+               Crypted v1.7
+============================================
+* Optimization
+* fix typo & unused variable
+
+Available Ciphers :
+* KEYWORD (NEW)
+* RAIL FENCE
+* AFFINE
+* SCYTALE
+* ATBASH
+* CAESAR
+
+               Crypted v1.5
+============================================
+* Optimization
+
+Available Ciphers :
+* RAIL FENCE (NEW)
+* AFFINE
+* SCYTALE
+* ATBASH
+* CAESAR
+
+               Crypted v1.3
+============================================
+* Optimization
+* Fix typo & unused variable
+
+Available Ciphers :
+* AFFINE (NEW)
+* SCYTALE
+* ATBASH
+* CAESAR
+* ROT13 (DROP)
+
+               Crypted v1.0
+============================================
+Available Ciphers :
+* SCYTALE
+* ATBASH
+* CAESAR
+* ROT13

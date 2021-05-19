@@ -1,0 +1,82 @@
+.\" Copyright (C) 2019 Kuroyasha512.
+.\"
+.\" This document is dual-licensed.  You may distribute and/or modify it
+.\" under the terms of either of the following licenses:
+.\"
+.\" * The GNU General Public License, as published by the Free Software
+.\"   Foundation, version 3 or (at your option) any later version.  You
+.\"   should have received a copy of the GNU General Public License
+.\"   along with this program.  If not, see
+.\"   <https://www.gnu.org/licenses/>.
+.\"
+.\" * The GNU Free Documentation License, as published by the Free
+.\"   Software Foundation, version 1.2 or (at your option) any later
+.\"   version, with no Invariant Sections, no Front-Cover Texts, and no
+.\"   Back-Cover Texts.  You should have received a copy of the GNU Free
+.\"   Documentation License along with this program.  If not, see
+.\"   <https://www.gnu.org/licenses/>.
+.\"
+.TH Crypted 1 "version 1.7" "July 2019"
+
+.SH NAME
+Crypted - Cryptograpy in terminal
+.SH  SYNOPSIS
+\fBCrypted\fP [ -e | -d ] [ -c \fIcipher\fP ] [ -i \fIinput\fP ] [ \fIADITIONAL-ARGUMENT\fP ]
+
+.SH DESCRIPTION
+\fBCrypted\fP is Cryptograpy tool for
+encrypt or decrypt text or file to specific type of cipher eg. scytale, atbash, caesar, rot13 and more
+
+.SH OPTIONS
+.TP
+.BR \-v ", " \-\-version
+Show the current version number and exit.
+.TP
+.BR \-h ", " \-\-help
+Show a summary of the available command-line options and exit.
+.TP
+.BR \-e ", " \-\-encryption
+Argument for encryption
+.TP
+.BR \-d ", " \-\-decryption
+Argument for decryption
+.TP
+.BR \-c ", " \-\-cipher
+Set type of cipher eg. scytale, caesar, etc
+.TP
+.BR \-i ", " \-\-input
+Set input to process en/decrypting
+.TP
+.BR \-R ", " \-\-redirect
+Option for Redirecting output
+
+.SH SPECIAL OPTIONS
+.TP
+.BR \-D ", " \-\-diameter
+Special options for scytale cipher
+.TP
+.BR \-s ", " \-\-shift-count
+Special options for caesar cipher
+.TP
+.BR \-A ", " \-\-var-A
+Special options for affine cipher
+.TP
+.BR \-B ", " \-\-var-B
+Special options for affine cipher
+.TP
+.BR \-r ", " \-\-rail
+Special options for rail fence cipher
+.TP
+.BR \-k ", " \-\-key
+special options for keyword cipher
+
+.SH BUGS
+.sp
+Please report any other bugs that you encounter:
+.br
+.IR bot404916@yahoo.com
+
+.SH AUTHOR
+.sp
+This manual page was originally written by Kuroyasha512
+for GNU/Linux
