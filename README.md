@@ -24,7 +24,7 @@ The Project is about learning the algorithm and think about solving problem
    ```
 2. change directory and make script executable
    ```sh
-   cd crypted
+   cd c-ippher
    chmod +x Release.sh
    ```
 3. run executable script, all binary compiled in Build
