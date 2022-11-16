@@ -1,11 +1,11 @@
 # **C-ippher**
 <!-- PROJECT SHIELDS -->
-[![Author](https://img.shields.io/badge/author-DevCapacitor-blue.svg)](https://github.com/DevCapacitor)
+[![Author](https://img.shields.io/badge/author-aerphanas-blue.svg)](https://github.com/aerphanas)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/DevCapacitor/C-ippher/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/DevCapacitor/C-ippher)](https://github.com/DevCapacitor/C-ippher/issues)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+> Project moved to Chimpanzee and rewritten in Haskell
 
 The Project is about learning the algorithm and think about solving problem
 
